@@ -1,4 +1,5 @@
 IPL Data Analysis Project
+
 This project is an in-depth analysis of Indian Premier League (IPL) data using Apache Spark. The aim is to derive meaningful insights from the rich dataset, including player performances, team statistics, and match outcomes. The analysis is performed using PySpark, making use of Spark’s powerful data processing capabilities to handle large datasets efficiently.
  
 Project Overview
